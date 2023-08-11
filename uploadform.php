@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h2{
-    text-align:center;
-}
-div{
-    margin: auto;
-    width: 400px;
-}
-input{   
-    box-sizing: border-box;
-    border-radius: 5px;
-    width: 400px;
-    height: 25px;
-    margin: 0px, auto;
-}
-#button1{
-    margin-left: 160px;
-}
-p{
-    text-align: center;
-}
-
-</style>  
-<h2>Đăng nhập</h2>
-</head>
-<body>
-
 <div>
 <form action="reg.php" method="post" enctype="multipart/form-data">
 Avatar*
@@ -55,5 +25,3 @@ Avatar*
 <input id ="button1" type="submit" value="Save">
 </form>
 </div>
-</body>
-</html>
